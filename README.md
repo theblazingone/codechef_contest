@@ -1,2 +1,3 @@
 # codechef_contest
-This Repo contains all the contests attempted by me on CodeChef.
+
+Starters, Cook-Off, Lunchtime and Long Challenges are the contests given by me for improving my competitive coding.
